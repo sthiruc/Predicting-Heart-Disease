@@ -1,2 +1,2 @@
 # Predicting-Heart-Disease
-DataSci300 Project - Predicting heart disease 
+DataSci300 Project - Predicting Heart Disease
